@@ -1,0 +1,24 @@
+{
+  "name": "junior-dev-jobs-api",
+  "version": "1.0.0",
+  "description": "A Junior Developer Jobs API built with Node.js and Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "api",
+    "jobs"
+  ],
+  "author": "Nomthandazo Seretila",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
